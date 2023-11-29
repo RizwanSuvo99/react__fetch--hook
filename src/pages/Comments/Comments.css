@@ -1,0 +1,16 @@
+.comments {
+  margin-bottom: 3rem;
+  padding: 1rem;
+}
+
+.comments__heading h1 {
+  font-size: 3.5rem;
+  text-align: center;
+  margin-block: 1rem;
+}
+.comments__content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}

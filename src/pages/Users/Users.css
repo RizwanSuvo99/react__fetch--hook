@@ -1,0 +1,11 @@
+.users {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}  
+
+.error{
+    color:rgb(254, 4, 4);
+}
